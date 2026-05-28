@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Dileep Nukavaali
 
-### Microsoft Dynamics 365 Field Service Engineer | .NET Developer | Enterprise Software Specialist
+### Microsoft Dynamics Manager | .NET Developer | Enterprise Software Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dileep-nukavalli-4538451a0/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:dileepnukavalli94@gmail.com)
